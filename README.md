@@ -1,0 +1,2 @@
+# kedb
+Known Errors Database
